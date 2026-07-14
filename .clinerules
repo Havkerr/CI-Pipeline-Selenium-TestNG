@@ -1,0 +1,5 @@
+This is a Selenium + TestNG + Maven test automation project.
+Use Java.
+Follow Page Object Model design.
+Keep dependency versions current stable releases, not bleeding-edge.
+Ask before adding any dependency I didn't request.

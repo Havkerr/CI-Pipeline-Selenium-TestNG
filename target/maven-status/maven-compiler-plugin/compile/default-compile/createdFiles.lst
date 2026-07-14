@@ -1,0 +1,3 @@
+com\portfolio\qa\pages\BasePage.class
+com\portfolio\qa\pages\SecureAreaPage.class
+com\portfolio\qa\pages\LoginPage.class
